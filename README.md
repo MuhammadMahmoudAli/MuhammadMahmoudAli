@@ -18,9 +18,9 @@ I work with:
 ---
 
 ## 💼 Focus Areas
-- 📊 FMCG & Sales Analytics  
-- 🤖 Reporting & Operations Automation  
-- 🔍 Customer Behaviour & Business Insights
+-  FMCG & Sales Analytics  
+-  Reporting & Operations Automation  
+-  Customer Behaviour & Business Insights
 
 ---
 
