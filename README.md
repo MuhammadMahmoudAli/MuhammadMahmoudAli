@@ -9,7 +9,7 @@ FMCG & Sales Analytics | Reporting Automation | Python • SQL • Power BI
 
 ---
 
-## 🚀 What I Do
+## What I Do
 I help businesses make data-driven decisions by building analytics pipelines, insights dashboards, and automated reporting solutions.
 
 I work with:
